@@ -1,0 +1,14 @@
+Add 0-1-1 event1
+Add 1-0-1 event1
+Add 1-1-0 event1
+Add 1--1-+1 event1
+Add 1-+1--1 event1
+Add +1-+1-+1 event1
+Add +1--1-+1 event1
+Add +1-+1--1 event1
+Add -1-+1--1 event1
+Add -1--1-+1 event1
+Add -1-+1-- event1
+Add -1---1--1 event1
+Add 1+1-1 event1
+Add 1-1+1 event1
